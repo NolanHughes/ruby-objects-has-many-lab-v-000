@@ -32,9 +32,9 @@ class Song
     @artist = artist
   end
 
-  def artist_name
-    self.artist.name
-  end
+  # def artist_name
+  #   self.artist.name
+  # end
 end
 
 adele = Artist.new("Adele")
