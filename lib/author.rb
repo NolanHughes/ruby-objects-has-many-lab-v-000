@@ -6,8 +6,8 @@ class Author
     @posts = []
   end
 
-  def posts
-    @posts << posts
-  end
+  # def posts
+  #   @posts << posts
+  # end
 
 end
