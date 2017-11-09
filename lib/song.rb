@@ -9,7 +9,7 @@ class Song
   # def name=(artist)
   #   @artist = artist
   # end
-  # 
+  #
   # def name
   #   @artist
   # end
