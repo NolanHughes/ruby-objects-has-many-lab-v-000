@@ -6,7 +6,7 @@ class Song
     @artist = artist
   end
 
-  # def artist
-  #   @artist
-  # end
+  def artist_name
+    # @artist
+  end
 end
