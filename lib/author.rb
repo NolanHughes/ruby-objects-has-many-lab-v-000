@@ -3,15 +3,15 @@ class Author
 
   def initialize(name)
     @name = name
-    @posts = []
+    @title = []
   end
 
-  def posts
-    @posts
+  def posts 
+    @title
   end
 
   def add_post(post)
-    @posts << post
+    @title << post
     post.author = self
   end
 
