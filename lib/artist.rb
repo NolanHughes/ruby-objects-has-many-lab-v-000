@@ -24,5 +24,18 @@ class Artist
   end
 end
 
+class Song
+  attr_accessor :name, :artist
+
+  def initialize(name)
+    @name = name
+    @artist = artist
+  end
+
+  def artist_name
+    self.artist.name 
+  end
+end
+
 artist = Artist.new("Adele")
 binding.pry
