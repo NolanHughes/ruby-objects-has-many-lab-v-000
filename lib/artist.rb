@@ -33,9 +33,9 @@ class Song
   end
 
   def artist_name
-    self.artist.name 
+    self.artist.name
   end
 end
 
-artist = Artist.new("Adele")
+adele = Artist.new("Adele")
 binding.pry
