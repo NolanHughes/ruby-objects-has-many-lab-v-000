@@ -6,8 +6,8 @@
      @author = author
    end
 
-   def author_name
-     
+   def author_name(name)
+     self.author.name
    end
 
  end
