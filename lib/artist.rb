@@ -5,5 +5,5 @@ class Artist
     @artist = artist
     @songs = []
   end
-  
+   
 end
