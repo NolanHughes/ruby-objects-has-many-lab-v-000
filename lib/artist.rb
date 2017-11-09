@@ -21,3 +21,5 @@ class Artist
     song.artist = self
   end
 end
+
+artist = Artist.new("Adele")
