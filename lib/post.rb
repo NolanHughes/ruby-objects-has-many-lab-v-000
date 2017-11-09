@@ -6,4 +6,8 @@
      @author = author
    end
 
+   def author_name
+     
+   end
+
  end
