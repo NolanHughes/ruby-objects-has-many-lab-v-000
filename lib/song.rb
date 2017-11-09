@@ -6,7 +6,7 @@ class Song
 
   end
 
-  def artist
-    @artist
-  end
+  # def artist
+  #   @artist
+  # end
 end
