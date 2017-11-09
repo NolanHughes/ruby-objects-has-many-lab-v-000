@@ -8,8 +8,9 @@ class Artist
 
   def name
     @artist
-    def songs
+  end
 
-    end
+  def songs
+
   end
 end
