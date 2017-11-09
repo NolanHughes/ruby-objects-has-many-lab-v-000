@@ -23,3 +23,4 @@ class Artist
 end
 
 artist = Artist.new("Adele")
+binding.pry
