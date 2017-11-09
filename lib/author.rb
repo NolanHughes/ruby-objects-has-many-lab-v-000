@@ -6,7 +6,7 @@ class Author
     @title = []
   end
 
-  def posts 
+  def posts
     @title
   end
 
